@@ -1,5 +1,21 @@
 <img src="./Banner.png" />
 
+<div align="center">
+
+<a href="https://www.linkedin.com/in/fredyalvarez-webdeveloper/" target="_blank">
+  <img alt="LinkedIn"
+    src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://fredyalvarezz.github.io/Portafolio/" target="_blank">
+  <img alt="Portfolio"
+    src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=githubpages&logoColor=white"/>
+</a>
+
+</div>
+
 # Hi, I'm Fredy Alvarez! 👋
 
 Welcome to my GitHub profile!  
