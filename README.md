@@ -19,7 +19,7 @@
 # Hi, I'm Fredy Alvarez! 👋
 
 Welcome to my GitHub profile!  
-I am a Systems Engineer and Frontend Developer passionate about building modern, responsive, and user-focused web applications. Below you'll find more about me, my technical skills, and some of the projects I've been working on.
+I am a Computer Systems Engineer and Web Developer passionate about building modern, responsive, and user-focused web applications. Below you'll find more about me, my technical skills, and some of the projects I've been working on.
 
 ---
 
@@ -111,7 +111,7 @@ https://github.com/fredyalvarezz/web_project_coffeeshop
 ## 📫 Let's Connect!
 
 📧 Email:  
-fredy-alexander1@hotmail.com
+fredyalvarez64@gmail.com
 
 💼 LinkedIn:  
 https://www.linkedin.com/in/fredyalvarez-webdeveloper/
